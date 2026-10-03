@@ -1,18 +1,15 @@
-# Helena Duarte — Fotografia de Casamento & Memórias Afetivas
+# Rodrigo Zago — Fotografia & Filme de Casamento
 
-Design de site autoral e acolhedor para fotografia documental de casamentos, inspirado na essência e atmosfera do site `alyssanicolephotographyy.com`.
+Design de site autoral e acolhedor para fotografia documental de casamentos.
 
 ---
 
 ## ✦ Filosofia e Atmosfera Visual
 - **Tom & Sensação:** Romântico, acolhedor, íntimo e cinematográfico. O site funciona como um livro de memórias táteis e galeria de arte editorial.
-- **Paleta de Cores Orgânicas:**
-  - Base (Papel de Algodão): `#FBF9F5`
-  - Superfície (Linho Quente): `#F2ECE4`
-  - Linhas e Bordas: `#DFD7CB`
-  - Texto Principal (Carvão Suave): `#242220`
-  - Corpo de Texto (Sépia Pálido): `#5C5650`
-  - Acentos Orgânicos: `#706E5B` (Verde Oliva Desbotado) & `#9E7B66` (Terracota Suave)
+- **Paleta da marca R.Zago:**
+  - Oliva `#524F3D` · Grafite `#2F2D2E` · Creme `#EAE6DC` · Terracota `#865E45`
+  - Base do site: `#F6F3EC` (creme claro derivado da marca)
+- **Identidade:** kit de logos oficial em `assets/logos/` (SVG: horizontal, empilhado e monograma, nas 4 cores). O site usa um sprite no `index.html` que herda a cor do texto.
 - **Tipografia:**
   - **Títulos & Citações:** `Cormorant Garamond` (Google Fonts)
   - **Subtítulos & Tags:** `Tenor Sans` (Google Fonts)
@@ -37,7 +34,7 @@ fotografia-casamento/
 Você pode abrir o arquivo `index.html` diretamente em qualquer navegador moderno ou rodar um servidor HTTP local simples:
 
 ```bash
-cd /home/pedro/fotografia-casamento
+cd fotografias-Rodrigo-main
 python3 -m http.server 8000
 ```
 E acesse no navegador: `http://localhost:8000`
